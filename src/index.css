@@ -59,7 +59,8 @@
   body {
     @apply bg-background text-foreground;
     font-family: 'Roboto', sans-serif;
-    background-image: url("background.jpg");
+    background-image: url("background.png");
+    background-color: #b0d6f5;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
