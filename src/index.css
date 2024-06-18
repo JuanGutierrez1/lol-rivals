@@ -58,5 +58,15 @@
 
   body {
     @apply bg-background text-foreground;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  h1,
+  h2 {
+    font-family: 'Montserrat', sans-serif;
   }
 }
